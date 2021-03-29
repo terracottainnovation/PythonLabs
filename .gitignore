@@ -1,3 +1,5 @@
 /Tensorflow/horse-or-human/data/horse-or-human.zip
 /Tensorflow/horse-or-human/data/validation-horse-or-human.zip
 .idea/
+/venv/
+/boston_housing/
